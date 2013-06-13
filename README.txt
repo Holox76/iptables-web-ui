@@ -12,4 +12,6 @@ Elle vous permet de :
 * Bloquer l'UDP
 * Vider les règles
 * Bloquer le trafic extérieur
-* 
+
+
+Vous devez avoir un serveur SSH et avoir au préalable activé l'extension : SSH2 sur votre serveur PHP.
