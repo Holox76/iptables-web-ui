@@ -15,3 +15,8 @@ Elle vous permet de :
 
 
 Vous devez avoir un serveur SSH et avoir au préalable activé l'extension : SSH2 sur votre serveur PHP.
+
+
+Pour tout contact, envoyez un mail à tlecoue@gmail.com
+
+iptables-web-ui © 2014 Pierre-André Patry All rights reserved
